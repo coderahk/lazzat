@@ -147,6 +147,7 @@ img {
     border-radius: 5px;
     color: green;
     margin-right: 50px;
+    outline: none;
 }
 .input::placeholder {
     color: green;
